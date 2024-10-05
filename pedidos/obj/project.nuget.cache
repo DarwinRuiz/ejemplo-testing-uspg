@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OCVpDnp7zpezWZwo1VyCVRy41jZc+FjsNHBxLK9TKPqNJC4BAW1DRFAN/rLPeEmtfOHuTk/PAJZ9BeWUFtjpcA==",
+  "success": true,
+  "projectFilePath": "C:\\Study\\C#\\pedidos\\pedidos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DarwinRuiz\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
+    "C:\\Users\\DarwinRuiz\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

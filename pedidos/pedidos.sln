@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pedidos", "pedidos.csproj", "{B3F917E8-75CE-4B46-BCBC-252E848C82CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PedidosTests", "..\PedidosTests\PedidosTests.csproj", "{63A55827-E403-4790-97BF-9C19666265BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3F917E8-75CE-4B46-BCBC-252E848C82CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F917E8-75CE-4B46-BCBC-252E848C82CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F917E8-75CE-4B46-BCBC-252E848C82CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F917E8-75CE-4B46-BCBC-252E848C82CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A55827-E403-4790-97BF-9C19666265BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A55827-E403-4790-97BF-9C19666265BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A55827-E403-4790-97BF-9C19666265BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A55827-E403-4790-97BF-9C19666265BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FEC61E7-8049-485E-B73A-36B08F896B79}
+	EndGlobalSection
+EndGlobal
